@@ -7,5 +7,4 @@ herkesin katılması için uygundur.
 
 ##İletişim ve daha fazla bilgi için
 Daha fazla bilgi için sorularınızı [@iscalik](https://twitter.com/iscalik) üzerinden sorabilirsiniz.
-=======
 

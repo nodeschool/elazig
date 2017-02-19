@@ -14,20 +14,20 @@ img.logo{
 
 .jumbotron{
   background-color:#f0ff03;
-  color: rgb(96, 97, 83);
+  color: black;
 }
 
 .jumbotron h1{
   margin:0;
   font-weight: bold;
-  color: rgb(96, 97, 83);
+  color: black;
 }
 .jumbotron h1 span{
   font-weight: 400 !important;
 }
 .jumbotron h2{
   margin:10px
-  color: rgb(96, 97, 83);
+  color: black;
 }
 
 
